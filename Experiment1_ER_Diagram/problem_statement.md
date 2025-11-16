@@ -46,10 +46,10 @@ Design a database for patient management, appointments, medical records, and bil
    - How you modeled prerequisites or billing.
 
 # ER Diagram Submission
-
+```
 NAME - P.Aditya Naga Sai 
 REGISTER NUMBER - 212223110036
-
+```
 ## Scenario Chosen:
 University ER Diagram
 
